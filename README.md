@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=exe1566&label=Profile%20views&color=0e75b6&style=plastic" alt="exe1566" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=exe15666&theme=algolia" alt="exe1566"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=exe1566&theme=algolia" alt="exe1566"  /></p>
 
 
 ## 🛠️ My Skills
